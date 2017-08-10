@@ -1,0 +1,10 @@
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*///// LAYOUTSTYLES ///// */
+.row {
+  /* anything with row will now have space in between*/
+  margin-bottom:20px;
+}
